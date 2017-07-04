@@ -1,6 +1,7 @@
-# Hello-world
-starting with github
+# README #
 
-#### UPDATE ####
+github test
 
-making a change
+## UPDATE ##
+
+04.07.2017: added small description to top of README.
